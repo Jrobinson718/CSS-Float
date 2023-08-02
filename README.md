@@ -1,0 +1,1 @@
+Utilizing float properties in order to have groups of text with an image float left or right within their own respective spaces
